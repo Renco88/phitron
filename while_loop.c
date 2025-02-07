@@ -5,8 +5,9 @@ int main()
     while (i<=5)
     {
         /* code */
-        printf("%d",i);
+        printf("%d \n",i);
         i++;
     }
+    return 0;
     
 }
