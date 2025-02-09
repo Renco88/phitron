@@ -1,1 +1,4 @@
-printf("\n");
+for (int i = 0; i < m; i++)
+    // {
+    //     scanf("%d", &b[i]);
+    // }
