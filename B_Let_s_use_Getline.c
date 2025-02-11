@@ -2,7 +2,7 @@
 
 int main() {
     char s[1000001];
-    scanf("%[^\\]", s); 
+    scanf("%s", s); 
     printf("%s\n", s); 
     return 0;
 }
